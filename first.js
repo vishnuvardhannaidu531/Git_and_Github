@@ -18,3 +18,6 @@ console.log(bugfix);
 
 const n="Vishnu"
 console.log(n)
+
+const bug="Bug is fixed"
+console.log(bug);
