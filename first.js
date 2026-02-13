@@ -15,3 +15,6 @@ console.log(upi);
 
 const bugfix="Bug is fixed"
 console.log(bugfix);
+
+const n="Vishnu"
+console.log(n)
